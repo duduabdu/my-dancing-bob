@@ -1,4 +1,4 @@
-# my-dancing-bob - http://www.thingiverse.com/thing:1436432
+# my-dancing-bob  
 
-This code is taken from git@github.com:hkucs-makerlab/my-dancing-bob.git
+This code is taken from https://github.com/G4lile0/Bobwi/tree/master/code/v1/arduino/v1 for http://www.thingiverse.com/thing:1436432
 
